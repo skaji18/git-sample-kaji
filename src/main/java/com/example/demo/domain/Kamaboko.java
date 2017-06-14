@@ -1,0 +1,35 @@
+package com.example.demo.domain;
+
+/**
+ * kamabokoのdomain.
+ * 
+ * @author shinnosuke.kaji
+ *
+ */
+public class Kamaboko {
+	/**
+	 * 名前
+	 */
+	private String name;
+	/**
+	 * 価格
+	 */
+	private Integer price;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public Integer getPrice() {
+		return price;
+	}
+
+	public void setPrice(Integer price) {
+		this.price = price;
+	}
+
+}
