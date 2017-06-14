@@ -2,16 +2,16 @@ package com.example.demo.domain;
 
 public class Tikuwa {
 
-	private String name;
+	//private String name;
 	private Integer price;
 
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
-		this.name = name;
-	}
+//	public String getName() {
+//		return name;
+//	}
+//
+//	public void setName(String name) {
+//		this.name = name;
+//	}
 
 	// public Integer getPrice() {
 	// return price;
