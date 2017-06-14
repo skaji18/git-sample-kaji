@@ -13,12 +13,12 @@ public class Tikuwa {
 		this.name = name;
 	}
 
-	public Integer getPrice() {
-		return price;
-	}
-
-	public void setPrice(Integer price) {
-		this.price = price;
-	}
+	// public Integer getPrice() {
+	// return price;
+	// }
+	//
+	// public void setPrice(Integer price) {
+	// this.price = price;
+	// }
 
 }
