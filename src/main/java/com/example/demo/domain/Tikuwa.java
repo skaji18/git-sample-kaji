@@ -7,7 +7,13 @@ package com.example.demo.domain;
  */
 public class Tikuwa {
 
+	/**
+	 * 名前
+	 */
 	private String name;
+	/**
+	 * 価格
+	 */
 	private Integer price;
 
 	public String getName() {
